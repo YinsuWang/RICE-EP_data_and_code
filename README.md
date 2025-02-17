@@ -4,3 +4,5 @@ Data and code for Can Carbon Tax Revenue Recycling Coordinate Climate Mitigation
 To run the program, add all files to the matlab path and run "RICE_main"
 
 The program is developed based on matlab 2022a
+
+There are some differences from the published version of the paper, but the main content is the same
